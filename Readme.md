@@ -23,7 +23,7 @@
 - Scala 2.12.7
 - Java 1.8+
 
-## Demonstration of the API works as expected
+## Demonstration of the API
 
 ```sh
 sbt clean assembly
